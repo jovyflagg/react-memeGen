@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/react-memegen/static/css/main.7df41295.css",
-    "main.js": "/react-memegen/static/js/main.2af12426.js",
+    "main.js": "/react-memegen/static/js/main.894b7656.js",
     "static/js/787.c3eb5dd4.chunk.js": "/react-memegen/static/js/787.c3eb5dd4.chunk.js",
     "index.html": "/react-memegen/index.html",
     "main.7df41295.css.map": "/react-memegen/static/css/main.7df41295.css.map",
-    "main.2af12426.js.map": "/react-memegen/static/js/main.2af12426.js.map",
+    "main.894b7656.js.map": "/react-memegen/static/js/main.894b7656.js.map",
     "787.c3eb5dd4.chunk.js.map": "/react-memegen/static/js/787.c3eb5dd4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7df41295.css",
-    "static/js/main.2af12426.js"
+    "static/js/main.894b7656.js"
   ]
 }
